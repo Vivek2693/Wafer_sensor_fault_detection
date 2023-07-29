@@ -30,3 +30,4 @@ python app.py
 - Scikit learn
 - 🏦 Industrial Use Cases
 
+"# Wafer_sensor_fault_detection" 
